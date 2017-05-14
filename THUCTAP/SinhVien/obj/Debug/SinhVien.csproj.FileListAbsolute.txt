@@ -1,0 +1,50 @@
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.csprojResolveAssemblyReference.cache
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.SinhVien.resources
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.Cache
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+c:\users\namtv1996\documents\visual studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.Lop.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.ResolveComReference.cache
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanGV.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanSV.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.Admin.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.portalsinhvien.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.GiangVien.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_BangDiem.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_GiangVien.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_thoikhoabieu.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.Cache
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.ResolveComReference.cache
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanGV.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanSV.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.Admin.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.portalsinhvien.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.GiangVien.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_BangDiem.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_GiangVien.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_thoikhoabieu.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.Cache

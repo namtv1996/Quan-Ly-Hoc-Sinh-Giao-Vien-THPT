@@ -1,0 +1,57 @@
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.GiangVien.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.portalsinhvien.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.Admin.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.User_thoikhoabieu.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.User_BangDiem.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.User_GiangVien.resources
+C:\Users\namtv1996\Documents\Visual Studio 2015\Projects\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\namtv1996\Downloads\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.Admin.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.portalsinhvien.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.GiangVien.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_BangDiem.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_GiangVien.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_thoikhoabieu.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+C:\Users\namtv1996\Downloads\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanSV.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.Admin.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.portalsinhvien.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.GiangVien.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_BangDiem.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_GiangVien.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_thoikhoabieu.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
+C:\Users\namtv1996\Downloads\Nhóm 8 Quảng Chiến Nam -- Quản lý điểm SV\btl_ngonngu\btl_ngonngu2\THUCTAP\SinhVien\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache

@@ -171,7 +171,7 @@
             this.dgr_lichgiangday.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
             this.dgr_lichgiangday.Size = new System.Drawing.Size(463, 198);
             this.dgr_lichgiangday.TabIndex = 11;
-            this.dgr_lichgiangday.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgr_lichgiangday_CellContentClick);
+           // this.dgr_lichgiangday.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgr_lichgiangday_CellContentClick);
             // 
             // lbl_goiynam
             // 
@@ -206,7 +206,7 @@
             this.Controls.Add(this.dgr_lichgiangday);
             this.Name = "User_XemLichGiangDay";
             this.Size = new System.Drawing.Size(500, 400);
-            this.Load += new System.EventHandler(this.User_XemLichGiangDay_Load);
+     //       this.Load += new System.EventHandler(this.User_XemLichGiangDay_Load);
             this.grb_thongtinsv.ResumeLayout(false);
             this.grb_thongtinsv.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgr_lichgiangday)).EndInit();

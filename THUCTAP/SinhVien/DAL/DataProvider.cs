@@ -16,7 +16,7 @@ namespace SinhVien.DAL
         {
             try
             {
-                string sql = @"Data Source=DESKTOP-G6V39FB\SQLEXPRESS;Initial Catalog=QUANLYDIEM;Integrated Security=True";
+                string sql = @"Data Source=DOQUANG\SQLSERVER;Initial Catalog=QUANLYDIEM;Integrated Security=True";
                 SqlConnection conn = new SqlConnection(sql);
                 conn.Open();
 

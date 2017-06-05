@@ -48,3 +48,23 @@ C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, gi
 C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
 C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
 C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Phần mềm quản lý học sinh, giáo viên của trường THPT\Quan-Ly-Hoc-Sinh-Giao-Vien-THPT\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.Cache
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.csprojResolveAssemblyReference.cache
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.ResolveComReference.cache
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanGV.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.USERCONTROL.User_HuongdanSV.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.Admin.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.DangNhap.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.portalsinhvien.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.GiangVien.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.User_BangDiem.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.User_GiangVien.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.User_thoikhoabieu.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.User_ThongTinSV.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.User_XemLichGiangDay.resources
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.Cache
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.exe
+A:\ThucTapNhom\THUCTAP\SinhVien\obj\Debug\SinhVien.pdb
+A:\ThucTapNhom\THUCTAP\SinhVien\bin\Debug\SinhVien.exe.config
+A:\ThucTapNhom\THUCTAP\SinhVien\bin\Debug\SinhVien.exe
+A:\ThucTapNhom\THUCTAP\SinhVien\bin\Debug\SinhVien.pdb

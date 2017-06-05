@@ -29,7 +29,7 @@ namespace SinhVien
             DoiTen();
             bdsource.DataSource = Bus.GetGiangVien();
         }
-        
+        //doi ten cot
         public void DoiTen()
         {
             dgr_thongtingiangvien.Columns[0].HeaderText = "Mã GV";

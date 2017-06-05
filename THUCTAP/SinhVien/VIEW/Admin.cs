@@ -409,8 +409,8 @@ namespace SinhVien
 
 
 
-                Export ex = new Export();
-                ex.ExportExcel_MaLHP(Bus.ThongKeDiem_MaLHP(lhp), "lớp học phần " + txt_malhp2.Text, "      Bảng Điểm Lớp Học Phần " + txt_malhp2.Text + " - " + label6.Text+"\n      "+label9.Text+" - "+label10.Text+"\n      Giảng viên: "+dt.Rows[0].Field<string>(3));
+                //Export ex = new Export();
+                //ex.ExportExcel_MaLHP(Bus.ThongKeDiem_MaLHP(lhp), "lớp học phần " + txt_malhp2.Text, "      Bảng Điểm Lớp Học Phần " + txt_malhp2.Text + " - " + label6.Text+"\n      "+label9.Text+" - "+label10.Text+"\n      Giảng viên: "+dt.Rows[0].Field<string>(3));
 
             }
             catch(Exception ex)

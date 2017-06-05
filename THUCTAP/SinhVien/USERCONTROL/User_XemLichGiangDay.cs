@@ -19,10 +19,7 @@ using SinhVien.Object;
             InitializeComponent();
         }
 
-        private void User_XemLichGiangDay_Load(object sender, EventArgs e)
-        {
-            
-        }
+     
         public void DoiTen()
         {
             dgr_lichgiangday.Columns[0].HeaderText = "Mã môn học";
@@ -60,10 +57,7 @@ using SinhVien.Object;
            
         }
 
-        private void dgr_lichgiangday_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
+     
 
         private void lbl_goiynam_Click(object sender, EventArgs e)
         {
